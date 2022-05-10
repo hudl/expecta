@@ -3,6 +3,7 @@
 xcuserdata
 .idea
 build/
+.build/
 Products/
 *.pbxuser
 *.mode1v3
